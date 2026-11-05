@@ -1,5 +1,3 @@
-# Fin whale detection and localization from DAS on the Morro Bay cable
+# xc for Whidbey data and processing pipeline for Morro Bay fin whales
 
-Detecting and characterizing fin whale calls using Distributed Acoustic Sensing (DAS)
-on the Morro Bay submarine telecom cable, with cross-checks against a nearby
-hydrophone, AIS vessel tracks, and human (Raven) annotation.
+xcorr looking for orcas on Whidbey cables started Dec 2023. Fin whale call detection and analysis, 2026
